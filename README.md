@@ -10,3 +10,5 @@ I have five years of work experience with the Microsoft .Net and Java stacks. I 
 - https://twitter.com/mesut_piskin
 
 For more information about me, check out [mesutpiskin.com](http://mesutpiskin.com)
+
+![Mesut's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mesutpiskin&show_icons=true)
