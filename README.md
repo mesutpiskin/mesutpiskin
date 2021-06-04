@@ -14,4 +14,7 @@ I have five years of work experience with the Microsoft .Net and Java stacks. I 
 
 For more information about me, check out [mesutpiskin.com](http://mesutpiskin.com)
 
-![Mesut's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mesutpiskin&show_icons=true)
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mesutpiskin&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mesutpiskin&layout=compact&langs_count=8&theme=algolia"/>
+</a>
