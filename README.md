@@ -13,3 +13,5 @@ I have six years of professional work experience with the software development. 
 
 
 For more information about me, check out [mesutpiskin.com](http://mesutpiskin.com)
+
+![Profile views](https://gpvc.arturio.dev/mesutpiskin)
