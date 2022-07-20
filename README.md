@@ -3,7 +3,7 @@
 <!--
 **mesutpiskin/mesutpiskin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-I have six years of professional work experience with the software development. I enjoy being challenged and working on complex software problems. I am trying to distributed/high scalability software architectures and learn new development skills. In particular, i like to experience new technologies, architectures and learn new programing languages as part of my career progression.
+Senior software engineer with experience in software development and software architecture design. My primary specialty is highly available, low latency, high reliability, distributed, and secure software architectures. My goal is to provide value through rapid development and release of quality features in addition to solving difficult problems in novel and efficient ways.
 
 
 [![Linkedin Badge](https://img.shields.io/badge/mesutpiskin-gray?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mesutpiskin/)
