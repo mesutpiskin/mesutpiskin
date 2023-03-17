@@ -1,17 +1,13 @@
-### Hi there 👋
+## Hi there, I'm Mesut 👋
 
-<!--
-**mesutpiskin/mesutpiskin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-Senior software engineer with experience in software development and software architecture design. My primary specialty is highly available, low latency, high reliability, distributed, and secure software architectures. My goal is to provide value through rapid development and release of quality features in addition to solving difficult problems in novel and efficient ways.
+I'm a software engineer working primarily with backend technologies. I have extensive experience in software development and architecture design, focusing on creating highly available, low latency, reliable, distributed, and secure software architectures. I specialize in solving complex problems efficiently and providing value through rapid development and the release of quality features.
 
+### Find me around the web 🌎
 
-[![Linkedin Badge](https://img.shields.io/badge/mesutpiskin-gray?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mesutpiskin/)
-[![Twitter Badge](https://img.shields.io/badge/mesut_piskin-gray?style=for-the-badge&logo=twitter)](https://twitter.com/mesut_piskin/)
-[![Medium Badge](https://img.shields.io/badge/mesutpiskin-gray?style=for-the-badge&logo=medium)](https://medium.com/@mesutpiskin)
+- Sharing my thoughts on [Medium](https://medium.com/@mesutpiskin)
+- Connecting on [LinkedIn](https://www.linkedin.com/in/mesutpiskin/)
+- Tweeting on [Twitter](https://twitter.com/mesut_piskin/)
 
+### Visit my website 🌐
 
-
-For more information about me, check out [mesutpiskin.com](http://mesutpiskin.com)
-
-![Profile views](https://gpvc.arturio.dev/mesutpiskin)
+For more information about me, check out [mesutpiskin.com](https://mesutpiskin.com).
