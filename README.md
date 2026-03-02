@@ -6,7 +6,7 @@ I'm a software engineer working primarily with backend technologies. I have exte
 
 - Sharing my thoughts on [Medium](https://medium.com/@mesutpiskin)
 - Connecting on [LinkedIn](https://www.linkedin.com/in/mesutpiskin/)
-- Tweeting on [Twitter](https://twitter.com/mesut_piskin/)
+- Tweeting on [X](https://x.com/mesut_piskin/)
 
 ### Visit my website 🌐
 
