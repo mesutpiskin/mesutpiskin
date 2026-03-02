@@ -1,13 +1,14 @@
-## Hi there, I'm Mesut 👋
+# Mesut Pişkin
 
-I'm a software engineer working primarily with backend technologies. I have extensive experience in software development and architecture design, focusing on creating highly available, low latency, reliable, distributed, and secure software architectures. I specialize in solving complex problems efficiently and providing value through rapid development and the release of quality features.
+Software engineer with 15+ years of experience building scalable, reliable, and secure distributed systems.
 
-### Find me around the web 🌎
+Focused on backend architecture and high-availability design, I build systems that handle real-world scale with simplicity and resilience.
 
-- Sharing my thoughts on [Medium](https://medium.com/@mesutpiskin)
-- Connecting on [LinkedIn](https://www.linkedin.com/in/mesutpiskin/)
-- Tweeting on [X](https://x.com/mesut_piskin/)
+I work full-time as an engineer and contribute to open-source in my personal time — driven by craftsmanship, clean design, and long-term thinking.
 
-### Visit my website 🌐
+## Writing & Links
 
-For more information about me, check out [mesutpiskin.com](https://mesutpiskin.com).
+- Medium: https://medium.com/@mesutpiskin  
+- LinkedIn: https://www.linkedin.com/in/mesutpiskin/  
+- X: https://x.com/mesut_piskin/  
+- Website: https://mesutpiskin.com  
